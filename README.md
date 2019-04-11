@@ -1,2 +1,3 @@
-# travian_countdown_requests
-Travian Countdown Requests
+# Travian Countdown Requests
+
+Project that collect players' tickets
